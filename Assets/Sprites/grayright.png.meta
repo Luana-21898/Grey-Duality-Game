@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: 995929e562a8e264590f48996f70f6dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5670744062007704202
+    second: grayright_0
+  - first:
+      213: 7310015867744394491
+    second: grayright_1
+  - first:
+      213: -6368152606452505225
+    second: grayright_3
+  - first:
+      213: 4883807603404908448
+    second: grayright_4
+  - first:
+      213: -4728972749505649334
+    second: grayright_5
+  - first:
+      213: 2421100334093823769
+    second: grayright_6
+  - first:
+      213: 4027698657243746228
+    second: grayright_7
+  - first:
+      213: -4396867673838564381
+    second: grayright_8
+  - first:
+      213: 3262930263397039176
+    second: grayright_9
+  - first:
+      213: -4726554022400839095
+    second: grayright_10
+  - first:
+      213: -1360059607003929581
+    second: grayright_11
+  - first:
+      213: -4397322509109212156
+    second: grayright_12
+  - first:
+      213: 258912735839498504
+    second: grayright_13
+  - first:
+      213: -2475519842286763738
+    second: grayright_14
+  - first:
+      213: 7081886464600392269
+    second: grayright_15
+  - first:
+      213: 4996640526465924807
+    second: grayright_16
+  - first:
+      213: 9022813080727121087
+    second: grayright_17
+  - first:
+      213: 4714250263677921075
+    second: grayright_18
+  - first:
+      213: -7739069205818379478
+    second: grayright_19
+  - first:
+      213: -8879095932833967769
+    second: grayright_20
+  - first:
+      213: -1084488139773765921
+    second: grayright_21
+  - first:
+      213: 7424149120866433469
+    second: grayright_22
+  - first:
+      213: 6266128421297733936
+    second: grayright_23
+  - first:
+      213: -5763182260063271012
+    second: grayright_24
+  - first:
+      213: 2065311060122210293
+    second: grayright_25
+  - first:
+      213: 2261960124384358547
+    second: grayright_26
+  - first:
+      213: 489020833453752411
+    second: grayright_27
+  - first:
+      213: -3430706949173695535
+    second: grayright_28
+  - first:
+      213: 1672882843474028434
+    second: grayright_29
+  - first:
+      213: -1501823490002826932
+    second: grayright_30
+  - first:
+      213: -4661644737178010963
+    second: grayright_31
+  - first:
+      213: 7573481858077651122
+    second: grayright_32
+  - first:
+      213: -5438464350260103412
+    second: grayright_33
+  - first:
+      213: -3069948900353943457
+    second: grayright_34
+  - first:
+      213: -6690883439197777415
+    second: grayright_35
+  - first:
+      213: -4671415145908015425
+    second: grayright_36
+  - first:
+      213: -2268086259072557829
+    second: grayright_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grayright_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 512
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67500eb02587d41b0800000000000000
+      internalID: -5670744062007704202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 512
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc9f5b93b4627560800000000000000
+      internalID: 7310015867744394491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775abe0c1f6cf97a0800000000000000
+      internalID: -6368152606452505225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 512
+        width: 126
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a72d48c325c6c340800000000000000
+      internalID: 4883807603404908448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 117
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45a639e6505f5eb0800000000000000
+      internalID: -4728972749505649334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_6
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 512
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fed332de9799120800000000000000
+      internalID: 2421100334093823769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_7
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 515
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfc45fc69245e730800000000000000
+      internalID: 4027698657243746228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 394
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb447075203bf2c0800000000000000
+      internalID: -4396867673838564381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 401
+        width: 116
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cf6ac69c1484d20800000000000000
+      internalID: 3262930263397039176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 399
+        width: 117
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ba13b828e76eb0800000000000000
+      internalID: -4726554022400839095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_11
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 397
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3146c2b4ef8102de0800000000000000
+      internalID: -1360059607003929581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_12
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 397
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c47b9d97299f2c0800000000000000
+      internalID: -4397322509109212156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_13
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 397
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801b98fe2c7d79300800000000000000
+      internalID: 258912735839498504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_14
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 397
+        width: 101
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621011eb1df25add0800000000000000
+      internalID: -2475519842286763738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 269
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d424726d73ae74260800000000000000
+      internalID: 7081886464600392269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 269
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce7252e512a75540800000000000000
+      internalID: 4996640526465924807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_17
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 269
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcec7721b8773d70800000000000000
+      internalID: 9022813080727121087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 269
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33760dc33a16c6140800000000000000
+      internalID: 4714250263677921075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_19
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 269
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23f7078f8d499490800000000000000
+      internalID: -7739069205818379478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_20
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 269
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761d0d4ea4d17c480800000000000000
+      internalID: -8879095932833967769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_21
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 269
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd619a168cf13f0f0800000000000000
+      internalID: -1084488139773765921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_22
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 269
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9b5c46a40e70760800000000000000
+      internalID: 7424149120866433469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_23
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 141
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0314e6c8992c5f650800000000000000
+      internalID: 6266128421297733936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 141
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c978815e4401500b0800000000000000
+      internalID: -5763182260063271012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 140
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff0549777579ac10800000000000000
+      internalID: 2065311060122210293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_26
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 134
+        width: 85
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390370eafb8146f10800000000000000
+      internalID: 2261960124384358547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_27
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 128
+        width: 87
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50c6c96bd959c600800000000000000
+      internalID: 489020833453752411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_28
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 128
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dba906d43ea360d0800000000000000
+      internalID: -3430706949173695535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_29
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 128
+        width: 122
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2976d143516473710800000000000000
+      internalID: 1672882843474028434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_30
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 128
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c494b0b2e73782be0800000000000000
+      internalID: -1501823490002826932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 116
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa7f6b5fc28e4fb0800000000000000
+      internalID: -4661644737178010963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b07597bf996a1960800000000000000
+      internalID: 7573481858077651122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 108
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07fe17dc71b684b0800000000000000
+      internalID: -5438464350260103412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_34
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 101
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f585dcb8db95565d0800000000000000
+      internalID: -3069948900353943457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1921d36f43523a0800000000000000
+      internalID: -6690883439197777415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_36
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbee5cdccaccb2fb0800000000000000
+      internalID: -4671415145908015425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayright_37
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 0
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc190070932680e0800000000000000
+      internalID: -2268086259072557829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

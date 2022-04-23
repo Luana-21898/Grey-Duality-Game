@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: add84a046c388eb47a9a2cad8d9905d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8016882348987134030
+    second: left_grey_0
+  - first:
+      213: -8449695883037922262
+    second: left_grey_1
+  - first:
+      213: 1751671043594894062
+    second: left_grey_2
+  - first:
+      213: 863392078982080778
+    second: left_grey_3
+  - first:
+      213: -3678066836129265141
+    second: left_grey_4
+  - first:
+      213: -5733045464092332035
+    second: left_grey_6
+  - first:
+      213: 7097065421573340019
+    second: left_grey_7
+  - first:
+      213: -8911488608854446388
+    second: left_grey_8
+  - first:
+      213: -7600189171265061060
+    second: left_grey_9
+  - first:
+      213: 5341290329713828999
+    second: left_grey_10
+  - first:
+      213: 9188242005905752983
+    second: left_grey_11
+  - first:
+      213: -6617463825148956717
+    second: left_grey_12
+  - first:
+      213: 1328388784106433258
+    second: left_grey_13
+  - first:
+      213: -2425505164668491784
+    second: left_grey_14
+  - first:
+      213: -634543981162388672
+    second: left_grey_15
+  - first:
+      213: 967645499115356016
+    second: left_grey_16
+  - first:
+      213: 6076969510385946509
+    second: left_grey_17
+  - first:
+      213: -3862379852039952510
+    second: left_grey_18
+  - first:
+      213: -8766595131932322554
+    second: left_grey_19
+  - first:
+      213: 3339808947660840545
+    second: left_grey_20
+  - first:
+      213: -2410568031587084324
+    second: left_grey_21
+  - first:
+      213: 3528493080255917406
+    second: left_grey_22
+  - first:
+      213: -7163830668874422318
+    second: left_grey_23
+  - first:
+      213: -9093968103460665173
+    second: left_grey_24
+  - first:
+      213: 4490765977394100851
+    second: left_grey_25
+  - first:
+      213: 3822494252078091639
+    second: left_grey_26
+  - first:
+      213: -2118771454866570506
+    second: left_grey_27
+  - first:
+      213: 7159813863320908601
+    second: left_grey_28
+  - first:
+      213: -1159963105928668083
+    second: left_grey_29
+  - first:
+      213: -1309703258411943958
+    second: left_grey_30
+  - first:
+      213: -4894991323952683725
+    second: left_grey_31
+  - first:
+      213: 7797798455794898332
+    second: left_grey_32
+  - first:
+      213: 5906398182768393645
+    second: left_grey_33
+  - first:
+      213: -3889047754794007913
+    second: left_grey_34
+  - first:
+      213: -4984362987537484769
+    second: left_grey_35
+  - first:
+      213: -2369618702176200719
+    second: left_grey_36
+  - first:
+      213: -1122219059635394688
+    second: left_grey_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: left_grey_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 515
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e403a796500b14f60800000000000000
+      internalID: 8016882348987134030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 512
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ca17fdc56acba80800000000000000
+      internalID: -8449695883037922262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 512
+        width: 117
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeabfcc888f2f4810800000000000000
+      internalID: 1751671043594894062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 512
+        width: 126
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09ec9975826bfb00800000000000000
+      internalID: 863392078982080778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 512
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ace5423b1e4fcc0800000000000000
+      internalID: -3678066836129265141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_6
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 512
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffac9f76812070b0800000000000000
+      internalID: -5733045464092332035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_7
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 512
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b36982667dd7260800000000000000
+      internalID: 7097065421573340019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 101
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce6a494358045480800000000000000
+      internalID: -8911488608854446388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 397
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fb9fc5734b68690800000000000000
+      internalID: -7600189171265061060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 397
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78462d86143102a40800000000000000
+      internalID: 5341290329713828999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 397
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793c5584c61338f70800000000000000
+      internalID: 9188242005905752983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 399
+        width: 117
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfaffb36bb0a24a0800000000000000
+      internalID: -6617463825148956717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_13
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 401
+        width: 116
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeae640af826f6210800000000000000
+      internalID: 1328388784106433258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_14
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 394
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f72f0357efd65ed0800000000000000
+      internalID: -2425505164668491784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04324707c95a137f0800000000000000
+      internalID: -634543981162388672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 269
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fb6436474cd6d00800000000000000
+      internalID: 967645499115356016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 269
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f0f61929bb55450800000000000000
+      internalID: 6076969510385946509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 269
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28768830df1166ac0800000000000000
+      internalID: -3862379852039952510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 269
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6055187cc2cc65680800000000000000
+      internalID: -8766595131932322554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 269
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16edef6fa82695e20800000000000000
+      internalID: 3339808947660840545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 269
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7d652a521fb8ed0800000000000000
+      internalID: -2410568031587084324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 269
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5de31103c9b7f030800000000000000
+      internalID: 3528493080255917406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7e0b656f5f49c90800000000000000
+      internalID: -7163830668874422318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 122
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba88e7a113cbbc180800000000000000
+      internalID: -9093968103460665173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a3cf30dd7625e30800000000000000
+      internalID: 4490765977394100851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_26
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 128
+        width: 87
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d4613154a3c0530800000000000000
+      internalID: 3822494252078091639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_27
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 134
+        width: 85
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2c078669c9892e0800000000000000
+      internalID: -2118771454866570506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_28
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 140
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933f82d36c4cc5360800000000000000
+      internalID: 7159813863320908601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_29
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 141
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c109e63bbf6efe0800000000000000
+      internalID: -1159963105928668083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_30
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 141
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae73f2953dff2dde0800000000000000
+      internalID: -1309703258411943958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3356e2d535f711cb0800000000000000
+      internalID: -4894991323952683725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c959ebb8168573c60800000000000000
+      internalID: 7797798455794898332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad3ce19addb7f150800000000000000
+      internalID: 5906398182768393645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_34
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 0
+        width: 101
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79209fc0ca3570ac0800000000000000
+      internalID: -3889047754794007913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_35
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 108
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f143938654cf3dab0800000000000000
+      internalID: -4984362987537484769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_36
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f75aab585c6d1fd0800000000000000
+      internalID: -2369618702176200719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_grey_37
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 116
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087624606b31d60f0800000000000000
+      internalID: -1122219059635394688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
